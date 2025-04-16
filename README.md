@@ -1,2 +1,2 @@
 #hola-git
-
+git init
